@@ -1,0 +1,19 @@
+C:\Users\kai\documents\visual studio 2015\Projects\网络自动认证工具\网络自动认证工具\bin\Release\网络自动认证工具.exe.config
+C:\Users\kai\documents\visual studio 2015\Projects\网络自动认证工具\网络自动认证工具\bin\Release\网络自动认证工具.exe
+C:\Users\kai\documents\visual studio 2015\Projects\网络自动认证工具\网络自动认证工具\bin\Release\网络自动认证工具.pdb
+C:\Users\kai\documents\visual studio 2015\Projects\网络自动认证工具\网络自动认证工具\obj\Release\网络自动认证工具.csprojResolveAssemblyReference.cache
+C:\Users\kai\documents\visual studio 2015\Projects\网络自动认证工具\网络自动认证工具\obj\Release\网络自动认证工具.Form1.resources
+C:\Users\kai\documents\visual studio 2015\Projects\网络自动认证工具\网络自动认证工具\obj\Release\网络自动认证工具.Properties.Resources.resources
+C:\Users\kai\documents\visual studio 2015\Projects\网络自动认证工具\网络自动认证工具\obj\Release\网络自动认证工具.csproj.GenerateResource.Cache
+C:\Users\kai\documents\visual studio 2015\Projects\网络自动认证工具\网络自动认证工具\obj\Release\网络自动认证工具.exe
+C:\Users\kai\documents\visual studio 2015\Projects\网络自动认证工具\网络自动认证工具\obj\Release\网络自动认证工具.pdb
+E:\网络自动认证工具\网络自动认证工具\obj\Release\网络自动认证工具.csprojAssemblyReference.cache
+E:\网络自动认证工具\网络自动认证工具\obj\Release\网络自动认证工具.Form1.resources
+E:\网络自动认证工具\网络自动认证工具\obj\Release\网络自动认证工具.Properties.Resources.resources
+E:\网络自动认证工具\网络自动认证工具\obj\Release\网络自动认证工具.csproj.GenerateResource.cache
+E:\网络自动认证工具\网络自动认证工具\obj\Release\网络自动认证工具.csproj.CoreCompileInputs.cache
+E:\网络自动认证工具\网络自动认证工具\obj\Release\网络自动认证工具.exe
+E:\网络自动认证工具\网络自动认证工具\obj\Release\网络自动认证工具.pdb
+E:\网络自动认证工具\网络自动认证工具\bin\Release\网络自动认证工具.exe.config
+E:\网络自动认证工具\网络自动认证工具\bin\Release\网络自动认证工具.exe
+E:\网络自动认证工具\网络自动认证工具\bin\Release\网络自动认证工具.pdb
